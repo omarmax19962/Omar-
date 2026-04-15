@@ -1,0 +1,3 @@
+[submodule "external/My-Plugin"]
+	path = external/My-Plugin
+	url = https://github.com/omarmax19962/My-Plugin.git
